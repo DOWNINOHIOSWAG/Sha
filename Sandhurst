@@ -1,4 +1,4 @@
-1local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 local window = kavoUi.CreateLib("SA Script","Synapse")
 
 ---Tabs
