@@ -7,6 +7,8 @@ local Tab1 = window:NewTab("JJS")
 local Tab1Section =Tab1:NewSection("Jumping Jacks (after typing you must jump after")
 local Tab2 = window:NewTab("Address")
 local Tab2Section =Tab2:NewSection("Referring")
+local Tab3 = window:NewTab("GGJs")
+local Tab3Section =Tab2:NewSection("Grammar Jacks")
 
 ---Buttons
 
@@ -877,6 +879,546 @@ end)
 Tab2Section:NewButton("Done, Maam","Made by Kethya",function()
 local args = {
     [1] = "Done, Maam",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("One.","Made by Kethya",function()
+local args = {
+    [1] = "One.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Two.","Made by Kethya",function()
+local args = {
+    [1] = "Two.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Three.","Made by Kethya",function()
+local args = {
+    [1] = "Three.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Four.","Made by Kethya",function()
+local args = {
+    [1] = "Four.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Five.","Made by Kethya",function()
+local args = {
+    [1] = "Five.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Six.","Made by Kethya",function()
+local args = {
+    [1] = "Six.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Seven.","Made by Kethya",function()
+local args = {
+    [1] = "Seven.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Eight.","Made by Kethya",function()
+local args = {
+    [1] = "Eight.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Nine.","Made by Kethya",function()
+local args = {
+    [1] = "Nine.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Ten.","Made by Kethya",function()
+local args = {
+    [1] = "Ten.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Eleven.","Made by Kethya",function()
+local args = {
+    [1] = "Eleven.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twelve.","Made by Kethya",function()
+local args = {
+    [1] = "Twelve.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirteen.","Made by Kethya",function()
+local args = {
+    [1] = "Thirteen. ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fourteen. ","Made by Kethya",function()
+local args = {
+    [1] = "Fourteen.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifteen.","Made by Kethya",function()
+local args = {
+    [1] = "Fifteen.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Sixteen.","Made by Kethya",function()
+local args = {
+    [1] = "Sixteen.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Seventeen","Made by Kethya",function()
+local args = {
+    [1] = "Seventeen.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Eighteen.","Made by Kethya",function()
+local args = {
+    [1] = "Eighteen.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Nineteen.","Made by Kethya",function()
+local args = {
+    [1] = "Nineteen.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty One.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty one.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Two.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty two.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Three.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty three.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Four.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty four.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Five.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty five.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Six.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty six.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Seven.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty seven.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Eight.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty eight.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Twenty Nine.","Made by Kethya",function()
+local args = {
+    [1] = "Twenty nine.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty One.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty one.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Two.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty two.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Three.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty three.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Four.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty four.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Five.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty Ffve.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Six.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty six.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Seven.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty seven.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Eight.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty eight.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Thirty Nine.","Made by Kethya",function()
+local args = {
+    [1] = "Thirty nine.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty.","Made by Kethya",function()
+local args = {
+    [1] = "Forty.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty One.","Made by Kethya",function()
+local args = {
+    [1] = "Forty one.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Two.","Made by Kethya",function()
+local args = {
+    [1] = "Forty two.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Three.","Made by Kethya",function()
+local args = {
+    [1] = "Forty three.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Four.","Made by Kethya",function()
+local args = {
+    [1] = "Forty four.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Five.","Made by Kethya",function()
+local args = {
+    [1] = "Forty five.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Six.","Made by Kethya",function()
+local args = {
+    [1] = "Forty six.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Seven.","Made by Kethya",function()
+local args = {
+    [1] = "Forty seven.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Eight.","Made by Kethya",function()
+local args = {
+    [1] = "Forty eight.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Forty Nine.","Made by Kethya",function()
+local args = {
+    [1] = "Forty nine.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty One.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty one.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty Two.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty two.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty Three.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty three.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty Four.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty four.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty Five.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty five.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty six.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty six.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty seven.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty seven.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty eight.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty eight.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Fifty nine.","Made by Kethya",function()
+local args = {
+    [1] = "Fifty nine.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab3Section:NewButton("Sixty.","Made by Kethya",function()
+local args = {
+    [1] = "Sixty.",
     [2] = "All"
 }
 
