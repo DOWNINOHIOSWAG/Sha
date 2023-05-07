@@ -8,7 +8,7 @@ local Tab1Section =Tab1:NewSection("Jumping Jacks (after typing you must jump af
 local Tab2 = window:NewTab("Address")
 local Tab2Section =Tab2:NewSection("Referring")
 local Tab3 = window:NewTab("GGJs")
-local Tab3Section =Tab2:NewSection("Grammar Jacks")
+local Tab3Section =Tab3:NewSection("Grammar Jacks")
 
 ---Buttons
 
