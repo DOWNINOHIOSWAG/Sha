@@ -9,6 +9,8 @@ local Tab2 = window:NewTab("Address")
 local Tab2Section =Tab2:NewSection("Referring")
 local Tab3 = window:NewTab("GGJs")
 local Tab3Section =Tab3:NewSection("Grammar Jacks")
+local Tab4 = window:NewTab("Military games address")
+local TabrSection =Tab4:NewSection("Different addresses in games")
 
 ---Buttons
 
@@ -885,6 +887,15 @@ local args = {
 game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
 end)
 
+Tab2Section:NewButton("Yes, Sir.","Made by Kethya",function()
+local args = {
+    [1] = "Yes, Sir.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
 Tab3Section:NewButton("One.","Made by Kethya",function()
 local args = {
     [1] = "One.",
@@ -1419,6 +1430,15 @@ end)
 Tab3Section:NewButton("Sixty.","Made by Kethya",function()
 local args = {
     [1] = "Sixty.",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+end)
+
+Tab4Section:NewButton("YES JDI.","Made by Kethya",function()
+local args = {
+    [1] = "YES JDI.",
     [2] = "All"
 }
 
