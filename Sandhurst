@@ -10,7 +10,7 @@ local Tab2Section =Tab2:NewSection("Referring")
 local Tab3 = window:NewTab("GGJs")
 local Tab3Section =Tab3:NewSection("Grammar Jacks")
 local Tab4 = window:NewTab("Military games address")
-local TabrSection =Tab4:NewSection("Different addresses in games")
+local Tab4Section =Tab4:NewSection("Different addresses in games")
 
 ---Buttons
 
