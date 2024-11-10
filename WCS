@@ -1,0 +1,707 @@
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-8407.08984375, 228.6568603515625, -4225.24951171875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-6291.4609375, 192.73388671875, -7732.466796875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(1776.486083984375, 313.0582275390625, -10830.2177734375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(6252.19384765625, 92.9039306640625, -9364.1923828125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(10067.2119140625, 197.033203125, -4895.935546875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(10811.6044921875, 505.3851318359375, -201.55224609375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(9852.66015625, 517.50927734375, 3347.4150390625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(4391.4970703125, 781.591064453125, 8261.51171875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(942.966552734375, 195.8111572265625, 8970.23046875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-3258.507568359375, 236.119873046875, 8024.01953125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-7023.79248046875, 480.1051025390625, 4876.33544921875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-8734.23828125, 704.166259765625, 788.1631469726562)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(2025.319580078125, 866.3212890625, -9928.6171875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(5793.19580078125, 139.8052978515625, -8811.23828125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(5022.177734375, 622.9437255859375, -9129.89453125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(8651.341796875, 643.81494140625, -6251.5234375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(10471.701171875, 840.8919677734375, -2326.70263671875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(9998.181640625, 1275.392333984375, 3238.083740234375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(6785.70703125, 1276.010986328125, 7561.60498046875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(276.26861572265625, 1394.218017578125, 9505.701171875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-4998.462890625, 1454.17626953125, 7516.8984375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-7763.50341796875, 1880.1689453125, -4262.607421875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-1971.0260009765625, 2278.004638671875, -9169.7109375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-8653.1767578125, 1333.50244140625, 1667.4610595703125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(1414.4215087890625, -2064.681640625, -10118.0693359375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(7741.12060546875, -1827.9462890625, -7368.966796875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(10629.96484375, -1790.7763671875, -2010.8956298828125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(9701.0263671875, -2013.85986328125, 4315.6572265625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-4832.91015625, -2228.62646484375, 7969.9091796875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-8941.513671875, -2447.5390625, 1424.981689453125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-6329.88720703125, -2391.922119140625, -7040.68798828125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(442.83984375, -1861.471923828125, -10147.076171875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-815.0783081054688, 2629.517822265625, -9993.501953125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(2518.99560546875, 2598.301025390625, -10019.5556640625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(7267.2783203125, 2721.161865234375, -7571.0751953125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(9963.76171875, 2515.79443359375, -3096.119873046875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(9949.619140625, 2352.232421875, 1695.194580078125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(7579.7861328125, 2777.546142578125, 5535.64501953125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(4344.6025390625, 2645.189208984375, 7787.72265625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-860.575927734375, 2563.0810546875, 8319.9697265625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-860.575927734375, 2563.0810546875, 8319.9697265625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-5913.306640625, 3071.417724609375, 5227.1279296875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-8063.03955078125, 3270.5458984375, 309.4718017578125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-7395.5517578125, 3875.03271484375, -3542.068603515625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-4072.57421875, 3983.87158203125, -7931.494140625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-250.38214111328125, 3647.984375, -9608.61328125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-7505.49609375, 4128.6396484375, -1386.0498046875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-3472.53857421875, 3954.5654296875, -8252.2958984375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(8502.6728515625, 5576.02880859375, 11.91302490234375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(6455.716796875, 5595.09228515625, 4327.60986328125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(3176.01025390625, 5815.49951171875, 6118.759765625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-1635.842529296875, 6041.7939453125, 5689.97900390625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-4591.4248046875, 6310.42578125, 2935.8798828125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-5894.982421875, 6166.73779296875, -631.396240234375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(-974.5281982421875, 1195.078125, -9748.6669921875)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(2860.97705078125, 5381.92578125, -7658.74609375)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(6761.23876953125, 6176.4609375, -4122.04541015625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(7953.1708984375, 6191.802734375, -217.06597900390625)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        ["AttackInfo"] = {
+            ["AttackIndex"] = 0,
+            ["ComboIndex"] = 0
+        },
+        ["WorldTargetPoint"] = Vector3.new(5594.1044921875, 5901.5751953125, 5355.236328125)
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("WC_FireProjectile"):FireServer(unpack(args))
