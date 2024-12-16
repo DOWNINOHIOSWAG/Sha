@@ -1,0 +1,8 @@
+while wait (0.0001) do
+local args = {
+    [1] = true
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Block"):FireServer(unpack(args))
+end
+
